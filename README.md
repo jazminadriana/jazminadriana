@@ -6,8 +6,11 @@ Soy Licenciada en Informática.
 - HTML5
 - CSS3
 - JavaScript
+
+## 🛠 Herramientas
 - Git & GitHub
-- VSC
+- VS Code
+- Chrome DevTools
 
 ## 📚 Actualmente aprendiendo
 - JavaScript avanzado
