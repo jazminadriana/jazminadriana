@@ -1,20 +1,39 @@
 # Hola, soy Jaz 👋
 
-Soy Licenciada en Informática.
+💻 Frontend Developer Jr en formación  
+🎓 Licenciada en Informática  
+🚀 Enfocada en construir proyectos reales y mejorar cada día
+
+---
 
 ## 🚀 Tecnologías
-- HTML5
-- CSS3
-- JavaScript
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
 
 ## 🛠 Herramientas
-- Git & GitHub
-- VS Code
-- Chrome DevTools
+
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+---
 
 ## 📚 Actualmente aprendiendo
-- JavaScript avanzado
-- Form Validation
 
-## 🎯 Objetivo
-Conseguir mi primera posición como Web Developer Jr.
+- JavaScript (validación de formularios, manipulación del DOM)
+- Buenas prácticas de desarrollo
+- Control de versiones con Git
+
+---
+
+## 🎯 Objetivo Profesional
+
+Conseguir mi primera oportunidad como Web Developer Jr donde pueda aportar, seguir aprendiendo y crecer dentro del mundo tech.
+
+---
+
+Gracias por visitar mi perfil 🚀
