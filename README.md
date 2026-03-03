@@ -24,7 +24,6 @@
 
 ## 📚 Actualmente aprendiendo
 
-- JavaScript (validación de formularios, manipulación del DOM)
 - Buenas prácticas de desarrollo
 - Control de versiones con Git
 
