@@ -6,17 +6,17 @@
 
 ###  Sobre mí
 - **Stack actual:** React, Vite, Node.js y Git.
-- [cite_start] **Formación:** Licenciada en Informática [cite: 35, 40].
+- **Formación:** Licenciada en Informática.
 - **Entorno de trabajo:** Desarrollo en macOS con un enfoque en estándares de código limpio y **Conventional Commits**.
-- [cite_start] **Ubicación:** Ciudad de México (CDMX)[cite: 2].
+- **Ubicación:** Ciudad de México (CDMX).
 
 ---
 
 ### Tecnologías y Herramientas
-- [cite_start]**Lenguajes:** JavaScript (ES6+), HTML5, CSS3[cite: 10, 11].
-- [cite_start]**Librerías/Frameworks:** React (Hooks, Context), Axios.
-- [cite_start]**Herramientas:** Git, GitHub, VS Code, Chrome DevTools[cite: 11].
-- [cite_start]**Metodologías:** Mobile First, Responsive Design, BEM[cite: 10].
+- **Lenguajes:** JavaScript (ES6+), HTML5, CSS3.
+- **Librerías/Frameworks:** React (Hooks, Context), Axios.
+- **Herramientas:** Git, GitHub, VS Code, Chrome DevTools.
+- **Metodologías:** Mobile First, Responsive Design, BEM.
 
 ---
 
@@ -30,8 +30,8 @@ Aplicaciones desarrolladas durante el curso **Full Stack Open** de la Universida
 
 #### [Validación Dinámica de Formularios](https://jazminadriana.github.io/form-validation-js/)
 Proyecto en JS Vanilla enfocado en la experiencia de usuario y lógica de negocio.
-- [cite_start]Manipulación avanzada del DOM y validación de campos en tiempo real[cite: 28, 29].
-- [cite_start]Implementación de **Dark Mode** y diseño 100% responsive[cite: 30, 31].
+- Manipulación avanzada del DOM y validación de campos en tiempo real.
+- Implementación de **Dark Mode** y diseño 100% responsive.
 
 ---
 
@@ -44,5 +44,5 @@ Proyecto en JS Vanilla enfocado en la experiencia de usuario y lógica de negoci
 ---
 
 ### Contacto
-- [cite_start]**LinkedIn:** [linkedin.com/in/jazminadrianahernandezluis](https://www.linkedin.com/in/jazminadrianahernandezluis) [cite: 4]
-- [cite_start]**Email:** [li.jhernandezz@gmail.com](mailto:li.jhernandezz@gmail.com) [cite: 2]
+- **LinkedIn:** [linkedin.com/in/jazminadrianahernandezluis](https://www.linkedin.com/in/jazminadrianahernandezluis) 
+- **Email:** [li.jhernandezz@gmail.com](mailto:li.jhernandezz@gmail.com) 
