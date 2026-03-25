@@ -1,38 +1,48 @@
-# Hola, soy Jaz 👋
+# ¡Hola! Soy Jazmín Adriana 👋
 
-💻 Frontend Developer Jr en formación  
-🎓 Licenciada en Informática  
-🚀 Enfocada en construir proyectos reales y mejorar cada día
+**Frontend Developer Junior** apasionada por construir interfaces interactivas y funcionales. Actualmente enfocada en el ecosistema de **React** y el perfeccionamiento de mis habilidades en el stack **Full Stack Open**.
 
 ---
 
-## 🚀 Tecnologías
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 🛠 Herramientas
-
-- Git & GitHub  
-- VS Code  
-- Chrome DevTools  
+###  Sobre mí
+- **Stack actual:** React, Vite, Node.js y Git.
+- [cite_start] **Formación:** Licenciada en Informática [cite: 35, 40].
+- **Entorno de trabajo:** Desarrollo en macOS con un enfoque en estándares de código limpio y **Conventional Commits**.
+- [cite_start] **Ubicación:** Ciudad de México (CDMX)[cite: 2].
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-- Buenas prácticas de desarrollo
-- Control de versiones con Git
-
----
-
-## 🎯 Objetivo Profesional
-
-Conseguir mi primera oportunidad como Web Developer Jr donde pueda aportar, seguir aprendiendo y crecer dentro del mundo tech.
+### Tecnologías y Herramientas
+- [cite_start]**Lenguajes:** JavaScript (ES6+), HTML5, CSS3[cite: 10, 11].
+- [cite_start]**Librerías/Frameworks:** React (Hooks, Context), Axios.
+- [cite_start]**Herramientas:** Git, GitHub, VS Code, Chrome DevTools[cite: 11].
+- [cite_start]**Metodologías:** Mobile First, Responsive Design, BEM[cite: 10].
 
 ---
 
-Gracias por visitar mi perfil 🚀
+### Proyectos Destacados
+
+#### [Phonebook & Countries App](https://github.com/jazminadriana/fullstackopen-exercises)
+Aplicaciones desarrolladas durante el curso **Full Stack Open** de la Universidad de Helsinki.
+- Manejo de estado complejo (`useState`, `useEffect`).
+- Comunicación asíncrona con APIs externas y servidores JSON.
+- Implementación de filtros en tiempo real y notificaciones dinámicas.
+
+#### [Validación Dinámica de Formularios](https://jazminadriana.github.io/form-validation-js/)
+Proyecto en JS Vanilla enfocado en la experiencia de usuario y lógica de negocio.
+- [cite_start]Manipulación avanzada del DOM y validación de campos en tiempo real[cite: 28, 29].
+- [cite_start]Implementación de **Dark Mode** y diseño 100% responsive[cite: 30, 31].
+
+---
+
+### Mi camino al Full Stack
+- [x] Parte 0: Fundamentos de aplicaciones web.
+- [x] Parte 1: Introducción a React.
+- [x] Parte 2: Comunicación con el servidor.
+- [ ] Parte 3: Programación de un servidor con NodeJS y Express.
+
+---
+
+### Contacto
+- [cite_start]**LinkedIn:** [linkedin.com/in/jazminadrianahernandezluis](https://www.linkedin.com/in/jazminadrianahernandezluis) [cite: 4]
+- [cite_start]**Email:** [li.jhernandezz@gmail.com](mailto:li.jhernandezz@gmail.com) [cite: 2]
