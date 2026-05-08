@@ -58,7 +58,3 @@ Currently, I am not just building my skills as a Full Stack Developer, but also 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazminadrianahernandezluis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:li.jhernandezz@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminadriana&layout=compact&theme=radical&hide_border=true&title_color=FFC0CB&cb=1" alt="My Top Languages" />
-</p>
